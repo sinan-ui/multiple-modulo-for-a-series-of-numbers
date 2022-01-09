@@ -1,0 +1,4 @@
+list=[ 300, 309, 616, 632, 661]
+for n in list:
+    mod_n = n% 3
+    print(mod_n)
